@@ -4,6 +4,8 @@ This repository contains the downloadable files mentionned in my [blog post](htt
 
 I dissasembled and reassembled a Boosted Rev Battery with new cells. 
 
+**Disassembling a Boosted Rev battery is tedious, irriversible and dangerous. Li-ion cells are dangerous and may burst in flames or explode if handled incorrectly. I am by no means a Boosted engineer or salesperson, so proceed at your own risk. Be careful and know what you are doing.**
+
 ## Custom Balancing Wires PCB
 
 If when dissasembling the pack, the yellow strip (flexible pcb) breaks, you'll have to order a custom PCB to re-solder the balancing wires and connect it to the BMS. Parts are all SMD, which can prove a little difficult to assemble if you lack soldering experience.
