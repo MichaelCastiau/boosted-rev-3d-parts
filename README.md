@@ -20,7 +20,7 @@ List of needed parts:
 - 3 x 10k@25°C 0805 SMD Thermistors
 - 12 x 25A Resettable Fuse 1206 SMD (for custom PCB)
 - 1 x 20 pin 0.5mm Hirose FPC Connector (for custom PCB)
-- 1 x 20 pin FPC flat cable 25cm (for custom PCB)
+- 1 x 20 pin FPC flat cable 25cm .5mm pitch (for custom PCB)
 
 ## 3D Printable new Casing
 
