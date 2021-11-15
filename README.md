@@ -1,4 +1,4 @@
-# Boosted Rev Battery Replacement - Teardown and rebuild with custom 3D parts (WATERPROOF!)
+# Boosted Rev Custom 3D parts (WATERPROOF)
 
 This repository contains the downloadable files mentionned in my [blog post](https://michael-castiau.blogspot.com/2021/05/boosted-rev-battery-replacement.html).
 These are all 3D printable casings that should be waterproof if printed and sealed correctly.
@@ -9,6 +9,8 @@ This part can be 3D printed in one piece, without supports (print front of the l
 Filament or resin printed is supported. Please use a (semi) transparent material. Resin printing can give an especially nice look to this part.
 
 The button of this part is printed within, no separate printing of the button is required.
+
+**Waterproofing: to waterproof the button, glue a small piece of rubber (like from a balloon) to the underside of the button with superglue. Let dry before use**
 
 ## 3D Printable Battery Casing
 
