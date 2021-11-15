@@ -3,7 +3,7 @@
 This repository contains the downloadable files mentionned in my [blog post](https://michael-castiau.blogspot.com/2021/05/boosted-rev-battery-replacement.html).
 These are all 3D printable casings that should be waterproof if printed and sealed correctly.
 
-## Front Lens
+## Front Dashboard Lens
 
 This part can be 3D printed in one piece, without supports (print front of the lens on the print bed). 
 Filament or resin printed is supported. Please use a (semi) transparent material. Resin printing can give an especially nice look to this part.
