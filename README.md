@@ -5,7 +5,10 @@ These are all 3D printable casings that should be waterproof if printed and seal
 
 ## Front Lens
 
-This part can be 3D printed in one piece, without supports (print front of the lens on the print bed). Filament or resin printed is supported. Please use a (semi) transparent material. Resin printing can give an especially nice look to this part.
+This part can be 3D printed in one piece, without supports (print front of the lens on the print bed). 
+Filament or resin printed is supported. Please use a (semi) transparent material. Resin printing can give an especially nice look to this part.
+
+The button of this part is printed within, no separate printing of the button is required.
 
 ## 3D Printable Battery Casing
 
