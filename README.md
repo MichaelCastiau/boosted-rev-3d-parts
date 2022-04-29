@@ -12,15 +12,13 @@ The button of this part is printed within, no separate printing of the button is
 
 **Waterproofing: to waterproof the button, glue a small piece of rubber (like from a balloon) to the underside of the button with superglue. Let dry before use**
 
-## 3D Printable Battery Casing
+## Custom 370Wh battery
 
-**This casing is only compatible with max. 12S3P 18560 cells!**
+12S3P 18650 battery, having space for a large BMS. More information on [my blog](https://michael-castiau.blogspot.com/2022/04/boosted-rev-custom-battery-3d-parts.html)
 
-The 3D printable casing is custom designed and if printed correctly should fit exactly inside your scooter. Use the downloadable `.stl` files to 3D print the casing or order it online. Print without supports.
+## Custom 1kWh battery
 
-> Note: the main part is 31 cm high so most 3D printing services will charge a lot of money to print it (even though it is hollow inside). Feel free to contact me if you want me to print the part for you, this will still be cheaper than a printing service
-
-Parts are best printed in PETG, because it is waterproof, sturdy and a bit flexible, which should help when sliding the battery pack inside.
+12S5P 21700 battery, very large, requires a small BMS. More information on [my blog](https://michael-castiau.blogspot.com/2022/04/boosted-rev-custom-battery-3d-parts.html)
 
 ## Stormcore (or smaller VESC) Casing
 
